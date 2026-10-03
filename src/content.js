@@ -31,7 +31,7 @@ export const content = {
     major: "Teknik Komputer dan Jaringan",
     headerSubtitle: "",
     role: "Network & Cybersecurity Learner",
-    email: "kenzie.oktavian@gmail.com",
+    email: "m.kenzie.oktavian@gmail.com",
     location: "Pekalongan, Jawa Tengah, Indonesia",
     githubUrl: "https://github.com/ken-octavius",
     youtubeUrl: "https://youtube.com/@ken4k7?si=CoIeY9MU3fQk7TYb",

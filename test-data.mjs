@@ -7,7 +7,7 @@ import {
 
 // Verify personal info & email
 assert.strictEqual(personalInfo.nickname, 'Ken', 'Nickname must be Ken');
-assert.strictEqual(personalInfo.email, 'kenzie.oktavian@gmail.com', 'Email must match');
+assert.strictEqual(personalInfo.email, 'm.kenzie.oktavian@gmail.com', 'Email must match');
 assert.strictEqual(personalInfo.school, 'SMK Negeri 1 Sragi', 'School must match');
 assert.ok(personalInfo.logoImage, 'Logo image must be specified');
 
